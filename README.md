@@ -16,3 +16,10 @@ Delivery Time Analysis of food delivery company
 5. The histogram shows a peak in the 20–40 minute range, suggesting that the majority of orders are completed within a reasonable time 
 
 ![time](https://github.com/user-attachments/assets/25fb3f0e-dd1a-4fd0-b98f-44ad344502d2)
+
+
+## Recommendation
+
+1. Investigate orders with delivery times over 90 minutes to identify recurring issues.
+
+2. Consider flagging those as delay cases and reviewing delivery partner logs or customer feedback for root causes
