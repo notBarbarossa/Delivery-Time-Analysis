@@ -1,6 +1,7 @@
 # Delivery-Time-Analysis
 Delivery Time Analysis of food delivery company
 
+## 1.1 Recommendation
 
 1. I found that while the majority of orders include discounts, this significantly affects cost structure.
 
@@ -18,7 +19,7 @@ Delivery Time Analysis of food delivery company
 ![time](https://github.com/user-attachments/assets/25fb3f0e-dd1a-4fd0-b98f-44ad344502d2)
 
 
-## Recommendation
+## 1.2 Recommendation
 
 1. Investigate orders with delivery times over 90 minutes to identify recurring issues.
 
